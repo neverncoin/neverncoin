@@ -1,0 +1,9 @@
+Building Neverncoin
+
+See doc/readme-qt.rst for instructions on building Neverncoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Neverncoin.
+
+See doc/build-*.txt for instructions on building neverncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Neverncoin.
